@@ -16,6 +16,6 @@ Linear Programming application in water utilization of diary cattle
 [Reproduction of Healthy Rats during the Ovulation Processes](https://docs.google.com/document/d/1nhWx7FdllO_iMI67zllXM7IY7nHqwjz2pT8KosqInZ4/edit)
 
 
-### Project 
+## Statistical Project 
 [141B Project Report](https://github.com/RLee12/STA-141B-Project/blob/master/Project.ipynb)
 
